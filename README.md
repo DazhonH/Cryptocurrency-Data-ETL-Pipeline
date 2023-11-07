@@ -1,5 +1,5 @@
 # Python ETL, Google Big Query, CMC API
-For this project, I created a data pipeline in Python that extracted cryptocurrency API data from Coin Market Cap and loaded the data into an SQL table in Google Big Query.
+For this project, I created a data pipeline in Python that extracted cryptocurrency API data from Coin Market Cap and loaded the data into a SQL table in Google Big Query.
 Then, pulled a few SQL queries to understand more about the cryptocurrency data.
 
 Link to my [Google Big Query](https://console.cloud.google.com/bigquery?sq=316047112763:9be2a56d54ba494ba1e782c57d9f8f9d) SQL Pulls
@@ -8,6 +8,8 @@ Link to my [Google Big Query](https://console.cloud.google.com/bigquery?sq=31604
 - Table Name = .cmc_data
 - Table Set ID = crypto-df-load.cmc_API_11623.cmc_data
 - Project ID = cryto-df-load
+
+ <img width="1440" alt="BigQuery Screenshot" src="https://github.com/DazhonH/Python-ETL-Google-Big-Query-CMC-API/assets/111669798/de32332c-1f32-4eb1-a605-2f9281fd89f6">
 
 
 # About Coin Market Cap
