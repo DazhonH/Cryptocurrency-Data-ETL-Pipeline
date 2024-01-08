@@ -5,7 +5,7 @@ Extract: Extracted data from Coin Market Cap's crypto API.
 
 Transform: Normalized JSON data into a data frame, cleaned the data, and added relevant date columns.
 
-Load: Loaded the processed data into Google. Pulled a few SQL queries based on the questions provided.
+Load: Loaded the processed data into Google. Executed SQL queries to derive insights.
 
 
 
